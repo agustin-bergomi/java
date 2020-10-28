@@ -1,0 +1,6 @@
+Evitar que el layout se modifique
+Dejar la pantalla de costado
+Util para videojuego
+
+android:configChanges="orientation|fontScale"
+

@@ -1,0 +1,29 @@
+"Contacts":[{
+"firstName":"John",
+"lastName":"Doe",
+"title":"Unknown Person"
+}{
+"firstName":"Al",
+"lastName":"Coholic",
+"title":"Barfly",
+}{
+"firstName":"Bea",
+"lastName":"O'Problem",
+"title":"Troublemaker"
+}]
+
+
+"temp":[{
+"min":"11.34",
+"max":"19.01",
+]}
+
+"weather":[{
+"id":"801",
+"condition":"Clouds",
+"description":"few clouds",
+]
+
+"pressure":"1023.51",
+"humidity":"87",
+}

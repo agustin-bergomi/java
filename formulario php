@@ -1,0 +1,17 @@
+<?php
+  $name = $_POST['name'];
+  $visitor_email = $_POST['email'];
+  $message = $_POST['message'];
+?>
+
+
+<?php
+	$email_from = 'agustin.bergomi@gmail.com';
+
+	$email_subject = "Mensaje desde epsilongama.com";
+
+	$email_body = "You have received a new message from the user $name.\n".
+                            "Here is the message:\n $message".
+?>
+
+

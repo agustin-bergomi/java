@@ -1,0 +1,27 @@
+.backup filename
+
+update contacts set email="steve@isemail.com";
+cambia todo!
+
+.restore testbackup
+
+update contacts set email="steve@hisemail.com" where name = "steve";
+
+select * from contacts;
+
+select phone, email from contacts where name="Brian";
+
+delete from contacts where phone=1234;
+
+select * from contacts
+
+.tables
+.schema
+
+.dump
+inserts necessary to populate with data
+grabs everyithing in a "transaction"
+
+.exit
+
+
